@@ -1,6 +1,8 @@
 # march-work
 Codes of work during march
 
+nginx: [emerg] invalid number of arguments in "location" directive in /etc/nginx/conf.d/default.conf:38
+
 
 proxy_cache_path /tmp/nginx levels=1:2 keys_zone=cache:1m inactive=24h use_temp_path=off;
 
