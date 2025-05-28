@@ -73,3 +73,55 @@ Codes of work during march
     grid-template-columns: 1fr;
   }
 }
+
+
+
+#### Code 2
+
+<div class="home-container">
+  <div class="subtitle">
+    <h2>Central de Ajuda</h2>
+  </div>
+  
+  <div class="items-grid">
+    <div class="item">
+      <h3>Cartões</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Empréstimos</h3>
+      <p>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Investimentos</h3>
+      <p>Vestibulum auctor dapibus neque. Proin quam nisl, tincidunt et.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Seguros</h3>
+      <p>Nulla consequat massa quis enim. Donec pede justo, fringilla vel.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Pagamentos</h3>
+      <p>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Conta Corrente</h3>
+      <p>Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Atendimento</h3>
+      <p>Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.</p>
+    </div>
+    
+    <div class="item">
+      <h3>Poupança</h3>
+      <p>Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.</p>
+    </div>
+  </div>
+</div>
